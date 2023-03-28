@@ -25,7 +25,7 @@ input {
     margin: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/IMG/font2.png);
+    background-image: url(../IMG/font2.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -51,7 +51,7 @@ input {
   .brand-logo {
     height: 100px;
     width: 100px;
-    background: url(/IMG/logo.png);
+    background: url(../IMG/logo.png);
     background-size: 100%;
     margin: auto;
     border-radius: 50%;
